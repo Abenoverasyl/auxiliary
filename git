@@ -1,4 +1,26 @@
-clone project from github
+--------------------------------------------------------------------------------
+Clone project from github
+--------------------------------------------------------------------------------
 
 1. Open git bush
 2. git clone [project link]
+
+
+---------------------------------------------------------------------------------
+Upload new project to github
+---------------------------------------------------------------------------------
+
+0. create new repository
+
+
+1. go to project folder, open git bush
+
+2. rd .git /S/Q
+
+3. git add .
+
+4. git commit -m "Show arrays and key"  // commit and add message
+
+5. git remote add origin https://github.com/Abenoverasyl/Articles.git
+
+6. git push -u origin master
