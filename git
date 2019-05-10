@@ -24,3 +24,13 @@ Upload new project to github
 5. git remote add origin https://github.com/Abenoverasyl/Articles.git
 
 6. git push -u origin master
+
+
+---------------------------------------------------------------------------------
+clone project from repo
+---------------------------------------------------------------------------------
+
+1. Open git bash
+2. gitk --all&
+3. copy SHA ID, exaple: 58557edea8720b2bb6044a48a6987d6d95b66c49
+3. git checkout [SHA ID]
