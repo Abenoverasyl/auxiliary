@@ -49,3 +49,6 @@ If you want to change default branch, it's so easy with GitHub, in your fork go 
 # If you want create a new branch:
 
 $ git branch <name_of_your_new_branch>
+
+# git update your Git remote:
+git remote set-url origin https://github.com/Abenoverasyl/auxiliary.git
